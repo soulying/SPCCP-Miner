@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>../../../Downloads/打开.png</file>
+        <file>../../../Downloads/打开 (1).png</file>
+        <file>../../../Downloads/保存.png</file>
+        <file>../../../Downloads/红绿灯 (2).png</file>
+        <file>../../../Downloads/表格-保存.png</file>
+        <file>../../../Downloads/视频 (1).png</file>
+        <file>../../../Downloads/视频.png</file>
+        <file>../../../Downloads/说明书.png</file>
+        <file>../../../Downloads/编辑 笔 记事 手写.png</file>
+        <file>../../../Downloads/car.png</file>
+        <file>../../../Downloads/重置.png</file>
+        <file>../../../Downloads/形状与几何.png</file>
+        <file>../../../Downloads/运行程序.png</file>
+    </qresource>
+</RCC>
